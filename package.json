@@ -1,5 +1,5 @@
 {
-  "name": "chat-up",
+  "name": "current-project",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
   }
 }
